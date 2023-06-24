@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Personal Study: "personalstudy"
+  CV: "cv"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -53,11 +54,12 @@ round-avatar: true
 social-network-links:
   email: "pheeeeee@yonsei.ac.kr"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Jung Hun Phee
+  facebook: "https://www.facebook.com/brian.phee.7/"
   github: pheeeeee
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  instagram: "https://www.instagram.com/pheeeeeeeeeeeee/"
+ # twitter: daattali
+ # patreon: DeanAttali
+ # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
