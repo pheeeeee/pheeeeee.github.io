@@ -26,8 +26,7 @@ navbar-links:
     - Seminars: "seminars"
     - Personal Study : "personalstudy"
   Personal Life: "aboutme"
-    - Music : "music"
-    - Travel : "traveling"
+    - Music & Trvel : "music"
     - Bucket List : "bucketlist"
   Questions: "questions"
 
