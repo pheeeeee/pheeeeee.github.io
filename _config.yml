@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Hi, I am Jung Hun
 
 # Your name to show in the footer
 author: Jung Hun Phee
@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
