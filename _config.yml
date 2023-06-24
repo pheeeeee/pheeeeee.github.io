@@ -22,7 +22,9 @@ author: Jung Hun Phee
 navbar-links:
   Research: "research"
   CV: "cv"
-  Personal Study Recap: "personalstudy"
+  Study Recap: 
+    - Seminars: "seminars"
+    - Personal Study : "personalstudy"
   Personal Life: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
