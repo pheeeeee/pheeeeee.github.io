@@ -15,6 +15,5 @@ title: Research
 
 ### [3] Heterogeneous Responses to Monetary Policy Shock in Industry Levels and Responses of Equity Market : Case of Korea(2020)
 - Abstract: This paper empirically studies the dynamic amongst monetary policy, output, and equity market in Korea. More specifically, it shows the heterogeneous responses of output in industry level to monetary policy shocks using Structural Vector Autoregression model. The study further examines whether equity market responds to monetary policy shock with respect to output changes. I find that industry sectors have different responses to monetary policy shocks in Korea, to which equity market does not react with respect to expected output changes.
-- 
 
 
