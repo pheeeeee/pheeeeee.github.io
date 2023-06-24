@@ -20,10 +20,10 @@ author: Jung Hun Phee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Research: "research"
-  Personal Study: "personalstudy"
   CV: "cv"
+  Personal Study Recap: "personalstudy"
+  Personal Life: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
