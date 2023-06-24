@@ -25,7 +25,8 @@ navbar-links:
   Study Recap: 
     - Seminars: "seminars"
     - Personal Study : "personalstudy"
-  Personal Life: "aboutme"
+  Personal Life:
+    - About Me : "aboutme"
     - Music & Trvel : "music"
     - Bucket List : "bucketlist"
   Questions: "questions"
