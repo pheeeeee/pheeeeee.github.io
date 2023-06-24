@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
----
+--- 
 
-My name is JungHun Phee. I am currently a graduate student at Yonsei university studying Statistics.
+My name is JungHun Phee.
 
 
 
 ### My hobby
 
-I usually work out 
+I love Sports and travelling.
+
 
