@@ -26,9 +26,10 @@ navbar-links:
     - Seminars: "seminars"
     - Personal Study : "personalstudy"
   Personal Life: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Music : "music"
+    - Travel : "traveling"
+    - Bucket List : "bucketlist"
+  Questions: "questions"
 
 ################
 # --- Logo --- #
