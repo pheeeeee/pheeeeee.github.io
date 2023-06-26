@@ -9,6 +9,7 @@ title: Research
 - Non-parametric Statistics
 - Data driven decision making
 - Applications to Inverse Problem, Medical Imaging and Finance
+- Game Theory
 
 
 ### [1] Quantum Algorithms for the Hidden Shift Problem(2022)
