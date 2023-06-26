@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jung-Hun Phee
-subtitle: 피정훈
+subtitle: 피정훈 <br> Master student studying Statistics and Applied Math
 --- 
 
 <a href="url"><img src="/assets/img/56268608_1919133274858508_5215814627929096192_n.jpg" align="left" height="300" width="300" style="float:left; padding-right:15px" ></a>
