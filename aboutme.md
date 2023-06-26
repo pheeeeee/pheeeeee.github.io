@@ -18,6 +18,4 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.**
 
 ### My hobby
-I love Sports and travelling.
-
-Big fan of Oasis and IU.
+I love Sports and travelling. I'm a big fan of Oasis and IU.
