@@ -22,5 +22,5 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 Amidst survival's ebb, we drift.
 But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.
 
-<\br>
+
 E-mail : pjh961018@naver.com
