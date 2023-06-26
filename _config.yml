@@ -26,12 +26,7 @@ navbar-links:
   CV: "cv"
   Study Recap: 
     - Seminars: "seminars"
-    - Personal Study Recap : 
-        - Ergodic Theory : "ergodictheory"
-        - Deep Learning : "deeplearning"
-        - Functional Analysis :
-            - Variational Method : "variationalmethod"
-            - Banach Space : "banachspace"
+    - Personal Study Recap : "personalstudy"
   Links of Interest: "links"
 
 ################
