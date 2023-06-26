@@ -1,3 +1,9 @@
+---
+layout: page
+title: Links of Interest
+---
+
+
 #### Deep Learning ####
 **Blog**
 - [딥러닝에서 사용되는 다양한 Convolution 기법들](https://eehoeskrap.tistory.com/431)
