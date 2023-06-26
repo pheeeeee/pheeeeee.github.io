@@ -23,7 +23,6 @@ navbar-links:
   Research: "research"
   CV: "cv"
   About Me : "aboutme"
-    - Contacts: "contact"
   Study Recap: 
     - Seminars: "seminars"
     - Personal Study Recap : "personalstudy"
