@@ -19,14 +19,8 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
   
 -----
 
+Amidst survival's ebb, we drift.
+But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.
 
-### Quote of the day
-**Amidst survival's ebb, we drift.<br/>
-But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.**
-
-
-### My hobby
-I love Sports and travelling. I'm a big fan of Oasis and IU.
-
-### Contact
+<\br>
 E-mail : pjh961018@naver.com
