@@ -22,12 +22,12 @@ author: Jung Hun Phee
 navbar-links:
   Research: "research"
   CV: "cv"
+  About Me : "aboutme"
   Study Recap: 
     - Seminars: "seminars"
-    - Personal Study : "personalstudy"
+    - Personal Study Recap : "personalstudy"
   Personal Life:
-    - About Me : "aboutme"
-    - Music & Travel : "music"
+    - Hobby : "music"
     - Bucket List : "bucketlist"
     - Questions: "questions"
   Contact: "contact"
