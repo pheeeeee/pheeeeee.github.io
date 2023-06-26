@@ -15,3 +15,4 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 
 ### My hobby
 I love Sports and travelling.
+Big fan of Oasis and Girl's Generation.
