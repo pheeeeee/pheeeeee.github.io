@@ -23,6 +23,7 @@ navbar-links:
   Research: "research"
   CV: "cv"
   About Me : "aboutme"
+    - Contacts: "contact"
   Study Recap: 
     - Seminars: "seminars"
     - Personal Study Recap : "personalstudy"
@@ -30,7 +31,6 @@ navbar-links:
     - Hobby : "music"
     - Bucket List : "bucketlist"
     - Questions: "questions"
-  Contact: "contact"
 
 ################
 # --- Logo --- #
