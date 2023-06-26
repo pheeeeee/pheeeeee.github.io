@@ -20,9 +20,9 @@ author: Jung Hun Phee
 ###############################################
 
 navbar-links:
+  About Me : "aboutme"
   Research: "research"
   CV: "cv"
-  About Me : "aboutme"
   Study Recap: 
     - Seminars: "seminars"
     - Personal Study Recap : "personalstudy"
