@@ -20,6 +20,7 @@ author: Jung Hun Phee
 ###############################################
 
 navbar-links:
+  Home : "index"
   About Me : "aboutme"
   Research: "research"
   CV: "cv"
