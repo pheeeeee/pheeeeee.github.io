@@ -25,9 +25,8 @@ Beyond Academics, I love sports and traveling.
 - Math Award (Best Grade), Waterloo University (2010)
 
 #### Quote
-Work hard and be kind. And amazing things will happen. <br><br>
-Amidst survival's ebb, we drift.<br>
-But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.
+Work hard, be kind. And amazing things will happen. <br><br>
+If survival is the goal, we drift. Yet in pursuit of the treasure island, a wondrous adventure unfolds.
 
 #### Contact
 E-mail : pjh961018@naver.com
