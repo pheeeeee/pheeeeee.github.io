@@ -20,6 +20,7 @@ author: Jung Hun Phee
 ###############################################
 
 navbar-links:
+  Publication: "publication"
   Research: "research"
   CV: "cv"
   Study Recap: 
@@ -30,6 +31,7 @@ navbar-links:
     - Music & Travel : "music"
     - Bucket List : "bucketlist"
   Questions: "questions"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
