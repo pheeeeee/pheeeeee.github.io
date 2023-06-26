@@ -58,9 +58,9 @@ round-avatar: true
 social-network-links:
   email: "pheeeeee@yonsei.ac.kr"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/brian.phee.7/"
+  #facebook: "https://www.facebook.com/brian.phee.7/"
   github: pheeeeee
-  instagram: "https://www.instagram.com/pheeeeeeeeeeeee/"
+  #instagram: "https://www.instagram.com/pheeeeeeeeeeeee/"
  # twitter: daattali
  # patreon: DeanAttali
  # youtube: c/daattali
