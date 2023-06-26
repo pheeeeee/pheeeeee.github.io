@@ -4,7 +4,7 @@ title: Jung-Hun Phee
 subtitle: 피정훈
 --- 
 <br><br><br>
-<a href="url"><img src="/assets/img/23.jpg" align="left" height="300" width="300" style="float:left; padding-right:15px" ></a>
+<a href="url"><img src=".../assets/img/23.jpg" align="left" height="300" width="300" style="float:left; padding-right:15px" ></a>
 Hi, I am a master student in the [the Department of Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do) at Yonsei University, advised by [Yong-Ho Jeon](https://stat.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=zLn7yUITMUoRCLHT7RciHQ%3D%3D&sosokcd=). 
 
 My research interests lie broadly in mathematical backgrounds of Machine Learning. Currently my focus is on the distributional robustness of machine learning with Ergodic Theory.
