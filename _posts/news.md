@@ -1,6 +1,7 @@
 ---
 layout: post
 title: News
+subtitle: what's new
 gh-repo: daattali/beautiful-jekyll
 tags: [news]
 comments: true
