@@ -26,10 +26,6 @@ navbar-links:
   Study Recap: 
     - Seminars: "seminars"
     - Personal Study Recap : "personalstudy"
-  Personal Life:
-    - Hobby : "music"
-    - Bucket List : "bucketlists"
-    - Questions: "questions"
 
 ################
 # --- Logo --- #
