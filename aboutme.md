@@ -9,7 +9,7 @@ Hi, I am a master student in the [the Department of Statistics and Data Science]
 My research interests lie broadly in mathematical backgrounds of Machine Learning. Currently my focus is on Ergodic Theory and Functional data.
 
 Beyond Academics, I love sports and traveling.
-<br>
+<br><br><br>
 
 
 #### Education
