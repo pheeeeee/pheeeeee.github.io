@@ -4,11 +4,11 @@ title: Research
 ---
 
 ### Research Interest
-- Statistics, Probability Theory, Ergodic Theory
+- Statistics, Ergodic Theory
 - Distributional Robustness and generalizability
 - Non-parametric Statistics
 - Data driven decision making
-- Applications to Medical Imaging and Finance
+- Applications to Inverse Problem, Medical Imaging and Finance
 
 
 ### [1] Quantum Algorithms for the Hidden Shift Problem(2022)
