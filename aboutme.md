@@ -17,6 +17,7 @@ Beyond Academics, I love sports and traveling.
 - M.S. [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do), Yonsei University, 2022 - Now
 - B.S. [Mathematics](https://math.yonsei.ac.kr/math/index.do), Yonsei University, 2016 - 2022 
 - B.A. [Economics](https://economics.yonsei.ac.kr/economics/index.do), with Minor in Applied Statistics, Yonsei University, 2016 - 2022
+- [Hankuk Academy of Foreign Studies(HAFS)](http://www.hafs.hs.kr/)
 
 #### Awards
 - Honorable Mention, Qiskit Hackerton Korea (2022)
