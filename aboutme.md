@@ -24,7 +24,7 @@ Beyond Academics, I love sports and traveling.
 - Math Award (Best Grade), Waterloo University (2010)
 
 #### Quote of the day
-Amidst survival's ebb, we drift.
+Amidst survival's ebb, we drift.<br>
 But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.
 
 #### Contact
