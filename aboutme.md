@@ -3,7 +3,8 @@ layout: page
 title: About me
 --- 
 
-![mypicture](/assets/img/23.JPG) Hi, I am a master student in the the Department of Statistics and Data Science at Yonsei University, advised by Yong-Ho Jeon. Prior to my graduate program, I obtained a Bachelor of Science in Economics and a Bachelor of Science in Mathematics with minor in Applied Statistics from Yonsei University.
+Hi, I am a master student in the the Department of Statistics and Data Science at Yonsei University, advised by Yong-Ho Jeon. Prior to my graduate program, I obtained a Bachelor of Science in Economics and a Bachelor of Science in Mathematics with minor in Applied Statistics from Yonsei University.
+![mypicture](/assets/img/23.JPG) 
 
 My research interests lie broadly in mathematical backgrounds of Machine Learning. Currently my focus is on Ergodic Theory and Functional data.
 
