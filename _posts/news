@@ -1,8 +1,12 @@
 ---
 layout: post
 title: News
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
 tags: [news]
+comments: true
 ---
 
-* **Sep. 2022** : Started Master program at Yonsei University
+
+**Sep. 2022** : Started Master program at Yonsei University
 
