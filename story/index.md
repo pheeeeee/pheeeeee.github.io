@@ -1,5 +1,3 @@
-cea8be18f8249fdbaaa535b000505661dd160000
-
 
 function login(secret) {
             var hash = sha1(secret)
@@ -32,5 +30,6 @@ function login(secret) {
 button[0].addEventListener("click", function () {
     login(password[0].value)
 })
+
 
 
