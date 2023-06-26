@@ -17,7 +17,7 @@ Beyond Academics, I love sports and traveling.
 - M.S. [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do), Yonsei University, 2022 - Now
 - B.S. [Mathematics](https://math.yonsei.ac.kr/math/index.do), Yonsei University, 2016 - 2022 
 - B.A. [Economics](https://economics.yonsei.ac.kr/economics/index.do), with Minor in Applied Statistics, Yonsei University, 2016 - 2022
-- Exchange Student Program at University of California, Berkely, 2019
+- Exchange Student Program, UC Berkely, 2019
 - [Hankuk Academy of Foreign Studies(HAFS)](http://www.hafs.hs.kr/), 2013 - 2015
 
 #### Awards
