@@ -13,6 +13,10 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 - Ministerial-level award of the Minister of Economy and Finance (Deputy Prime Minister Award) (2014)
 - Math Award (Best Grade), Waterloo University (2010)
 
+### Quote of the day
+Amidst survival's ebb, we drift.
+But in quest of Treasure's elusive lift, a grand odyssey of adventure unfolds.
+
 ### My hobby
 I love Sports and travelling.
 
