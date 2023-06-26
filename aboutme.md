@@ -10,7 +10,7 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 ### Awards
 - Honorable Mention, Qiskit Hackerton Korea (2022)
 - Korea Development Institute(KDI) president's award (2014)
-- Ministerial-level award of the Minister of Economy and Finance (Deputy Prime Minister Award) (2014)
+- Deputy Prime Minister's Award (2014)
 - Math Award (Best Grade), Waterloo University (2010)
 
 ### Quote of the day
