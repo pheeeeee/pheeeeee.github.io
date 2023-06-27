@@ -6,6 +6,6 @@ nav-short: false
 ---
 
 <div style="text-align: center; margin-top: 90px;">
-  <iframe src="https://pheeeeee.github.io/pdfs/cv/cv(202304).pdf" scrolling="no" width="850px" height="2200px" frameBorder="0"></iframe>
+  <iframe src="https://pheeeeee.github.io/pdfs/cv/cv_202304.pdf" scrolling="no" width="850px" height="2200px" frameBorder="0"></iframe>
 </div>
 
