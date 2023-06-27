@@ -28,7 +28,7 @@ Beyond Academics, I love sports and traveling.
 
 #### Favorite Quotes
 Work hard, be kind. And amazing things will happen. <br><br>
-If survival is the goal, we drift. Yet in pursuit of the treasure island, a wondrous adventure unfolds.
+It's drift when we aim for survival. Yet it becomes an adventure in pursuit of the treasure.
 
 #### Contact
 E-mail : pjh961018@naver.com
