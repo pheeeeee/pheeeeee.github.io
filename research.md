@@ -9,7 +9,7 @@ title: Research
 - Harmonic Analysis, Ergodic Theory
 - Non-parametric Statistics
 - Applications to Data-driven decision making, Finance and Inverse Problem in Medical Imaging and Finance
-- Game Theory
+- Game Theory, Platform Markets
 
 ----
 ## Research Experience
