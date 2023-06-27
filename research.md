@@ -5,10 +5,10 @@ title: Research
 
 ## Research Interest
 - Distributional Robustness and generalizability
-- Statistics, Ergodic Theory
+- Theoretical Computer Science, Information Theory
+- Harmonic Analysis, Ergodic Theory
 - Non-parametric Statistics
-- Data driven decision making
-- Applications to Inverse Problem, Medical Imaging and Finance
+- Applications to Data-driven decision making, Finance and Inverse Problem in Medical Imaging and Finance
 - Game Theory
 
 ----
