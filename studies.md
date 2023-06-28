@@ -1,6 +1,6 @@
 ---
 layout: studies
 title: Studies
-tagline: This is a list of my blog postings for my own studies.
+subtitle: This is the list of my blog posts for my own studies.
 permalink: /studies
 ---
