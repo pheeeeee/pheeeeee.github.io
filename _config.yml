@@ -24,10 +24,15 @@ navbar-links:
   About Me : "aboutme"
   Research: "research"
   CV: "cv"
-  Study Recap: 
+  Study : 
     - Seminars: "seminars"
-    - Personal Study Recap : "personalstudy"
+    - Personal Study : "personalstudy"
     - Links of Interest: "links"
+  Project :
+    - Medical Image : "prject/mi"
+    - Deep Learning : "deeplearning"
+    - Functional Data : "functionaldata"
+    - Finance : "finance"
   Personal:
     - Travel: "travel"
     - Hobby: "hobby"
