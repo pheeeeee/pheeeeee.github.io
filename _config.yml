@@ -67,11 +67,11 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "linkedin.com/in/jung-hun-phee-544962280"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: pheeeeeeeeeeeee
+ # instagram: pheeeeeeeeeeeee
 #  spotify: yourname
   telephone: +82 1052269131
 #  steam: deanat78
@@ -96,7 +96,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  #twitter: true
+  twitter: true
   facebook: true
   linkedin: true
   vk: false
@@ -202,7 +202,7 @@ footer-hover-col: "#0085A1"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5756920384192512-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
