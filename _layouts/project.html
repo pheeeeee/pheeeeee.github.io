@@ -16,14 +16,14 @@ layout: default
   </header> -->
 
   <div itemprop="articleBody">
+    <hr size="3" noshade>
+    {{ content }}
+    <hr size="3" noshade>
     {% if page.tags %}
     {% for tag in page.tags %}
       <a href="{{ site.baseurl }}{{ site.tag }}#{{ tag | slugify }}" class="post-tag">#{{ tag }}</a>
     {% endfor %}
     {% endif %}
-    <hr size="3" noshade>
-    {{ content }}
-    <hr size="3" noshade>
     {% for tag in page.categories %}
       <p><a href="{{ site.baseurl }}{{ site.projects }}#{{ tag | slugify }}">Go back to the List of Projects</a></p>
     {% endfor %}
