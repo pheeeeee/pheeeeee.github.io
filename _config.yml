@@ -29,10 +29,10 @@ navbar-links:
     - Personal Study : "personalstudy"
     - Links of Interest: "links"
   Project :
-    - Medical Image : "project/mi"
-    - Deep Learning : "project/deeplearning"
-    - Functional Data : "project/functionaldata"
-    - Finance : "project/finance"
+    - Medical Image : "medic"
+    - Deep Learning : "dl"
+    - Functional Data : "functionaldata"
+    - Finance : "finance"
   Personal:
     - Travel: "travel"
     - Hobby: "hobby"
