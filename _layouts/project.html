@@ -82,14 +82,10 @@ layout: base
 <article>
 
   <div>
-    </center>
-    <hr size="3" noshade>
-    {{ content }}
     <hr size="3" noshade>
     {% for tag in page.categories %}
-      <p><a href="{{ site.baseurl }}{{ site.projects_page }}#{{ tag | slugify }}">Go back to the List of Projects</a></p>
+      <p><a href="{{ site.baseurl }}{{ site.projects }}#{{ tag | slugify }}">Go back to the List of Projects</a></p>
     {% endfor %}
-    </center>
   </div>
     {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
