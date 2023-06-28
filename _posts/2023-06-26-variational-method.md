@@ -1,17 +1,17 @@
 ---
-layout: post
+layout: project
 use_math: true
-title: "[Graphical Model] TEST 1. Graphical Model & Bayesian Network"
-date: 2020-01-26 08:12:09
-tagline: "Graph 및 Graphical Model에 대한 전반적인 소개와 Bayesian Network에 대한 소개"
+title: "[Optimization] Variational Method - Derivative in Banach Space"
+date: 2023-06-26 08:12:09
+tagline: "Variational Method in Functional Space에 대한 소개"
 categories:
 - Graphical Model Study
 tags:
-- graphical model
-- statistics
-- machine learning
-image: /thumbnail-mobile.png
-author: "Hyungcheol Noh"
+- variational method
+- optimization
+- functional analysis
+- Banach Space
+author: "Jung Hun Phee"
 permalink: /2020-01-26-graphical-model-01
 ---
 
