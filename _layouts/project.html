@@ -80,3 +80,10 @@ layout: base
     </div>
   </div>
 </div>
+
+<hr size="3" noshade>
+{% if page.tags %}
+{% for tag in page.tags %}
+  <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">#{{ tag }}</a>
+{% endfor %}
+{% endif %}
