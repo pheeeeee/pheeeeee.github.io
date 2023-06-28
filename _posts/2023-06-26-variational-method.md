@@ -1,11 +1,11 @@
 ---
 layout: post
 use_math: true
-title: "[Optimization] Variational Method - Derivative in Banach Space"
+title: "Variational Method - Derivative in Banach Space"
 date: 2023-06-26 08:12:09
 tagline: "Variational Method in Functional Space에 대한 소개"
 categories:
-- Variational Method Study
+- Optimization
 tags:
 - variational method
 - optimization
