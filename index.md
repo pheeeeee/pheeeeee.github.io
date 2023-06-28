@@ -13,6 +13,9 @@ Beyond Academics, I love sports and traveling.
 <br><br><br>
 
 
+### News
+
+
 #### Education
 - M.S. [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do), Yonsei University, 2022 - Now
 - B.S. [Mathematics](https://math.yonsei.ac.kr/math/index.do), Yonsei University, 2016 - 2022 
@@ -33,5 +36,3 @@ It's drift when we aim for survival. Yet in pursuit of the treasure, it becomes 
 #### Contact
 E-mail : pjh961018@naver.com
 
-
-#### News
