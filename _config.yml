@@ -26,9 +26,9 @@ navbar-links:
   CV: "cv"
   Study : 
     - Seminar: "seminars"
-    - Study : "personalstudy"
+    - Study : "studies"
     - Links of Interest: "links"
-  Project : "project"
+  Project : "projects"
   Personal:
     - Travel: "travel"
     - Hobby: "hobby"
