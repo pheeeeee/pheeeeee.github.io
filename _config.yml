@@ -28,11 +28,7 @@ navbar-links:
     - Seminars: "seminars"
     - Personal Study : "personalstudy"
     - Links of Interest: "links"
-  Project :
-    - Medical Image : "medic"
-    - Deep Learning : "dl"
-    - Functional Data : "functionaldata"
-    - Finance : "finance"
+  Project : "project"
   Personal:
     - Travel: "travel"
     - Hobby: "hobby"
