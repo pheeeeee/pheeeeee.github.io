@@ -25,7 +25,7 @@ navbar-links:
   Research: "research"
   CV: "cv"
   Study : 
-    - Seminars: "seminar"
+    - Seminar: "seminars"
     - Study : "personalstudy"
     - Links of Interest: "links"
   Project : "project"
