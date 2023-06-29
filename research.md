@@ -8,7 +8,7 @@ title: Research
 - Theoretical Computer Science, Information Theory
 - Harmonic Analysis, Ergodic Theory
 - Non-parametric Statistics
-- Applications to data-driven decision making, finance and inverse Problem in medical imaging.
+- Applications to Data-Driven Decision Making, Economics and Inverse Problem in Medical Imaging.
 - Game Theory, Platform Markets
 
 ----
