@@ -38,7 +38,7 @@ $W_{1t}$ is the Browninan motion of asset price
 $W_{2t}$ is the Browninan motion of asset's price volatility
 
 
-** Properties of Heston Model **
+-- Properties of Heston Model --
 - It factors in a possible correlation between a stock's price and its volatility.
 - It conveys volatility as reverting to the mean.
 - It gives a closed-form solution, meaning that the answer is derived from an accepted set of mathematical operations.
