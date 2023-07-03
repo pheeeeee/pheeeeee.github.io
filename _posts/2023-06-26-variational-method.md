@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Variational Method - Derivative in Banach Space"
+usemath: true
 date: 2023-06-26 08:12:09
 tagline: "Variational Method in Functional Space에 대한 소개"
 categories:
