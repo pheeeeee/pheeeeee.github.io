@@ -17,7 +17,7 @@ author: "Jung Hun Phee"
 ---
 
 <h2> Intro </h2>
-Some questions and motivations why I studied this subject. : Can machines predict deterministic yet chaotic system? Can we distinguish noise from structural chaos from given data? Can machines recognize patterns from highly patternless system?
+Can machines predict deterministic yet chaotic system? Can we distinguish noise from structural chaos from given data? Can machines recognize patterns from highly patternless system?
 <br/>
 To answer these questions, one needs to understand and define what patternless is. Many mathematicians defined the notion of patternless as chaos. Good definitions  
 <br/>
