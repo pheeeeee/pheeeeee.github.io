@@ -1,6 +1,6 @@
 ---
 layout: post
-usemath: true
+use_math: true
 title: "Generating Financial Markets"
 subtitle: 
 categories:
