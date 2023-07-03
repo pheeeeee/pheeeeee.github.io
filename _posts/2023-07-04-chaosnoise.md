@@ -30,6 +30,19 @@ def) x is fixed point of f if $f(x) = x$
 ### Proposition
 Let p be a fixed point of f. If $|f'(p)| < 1$, then there exists a neighbourhood U of p such that, for all x in U, $\lim_{n \rightarrow \infty} f^{n}(x) = p.$ Such fixed point p is called attracting fixed point and the set U is a stable set. When $|f'(p)| > 1$, then p is called repelling fixed point. When $|f'(p)| = 1$, p is saddle point.
 
+<h4> Ergodic Theory </h4>
+"When can we expect the average of the data over time in the first experiment to be the same as the average of the data over the replicates at a fixed time?"
+<br/>
+$ (X,F,\mu) $ is probability space. $ f: X \rightarrow X $ is measure preserving with respect to $ \mu $ if for any A in F, $ \mu(f^{-1}(A)) = \mu(A) $
+<br/> 
+A in F is invariant if $ f^{-1}(A) = A $ for invertible transformation f and $ f^{t}(A) = A $ for any $ t > 0 $.
+<br/>
+f is ergodic if for any invariant subset A in F, $ \mu (A) = 0 or 1 $. 
+<br/> So if  f is ergodic, the sample path is not trapped in the subset of domain.
+<br/>
+
+### Ergodic Theorem
+If f is measure preserving and ergodic on $ (X,F, \mu) $, and Y is any random variable ( $ E[|Y|] < \infty $) then $ \frac{1}{n} \sum_{i=1}^{n} Y(f^{i}(x_{0})) = E_{P}(Y) $ almost surely 
 
 
 <br/>
