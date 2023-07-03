@@ -2,8 +2,8 @@
 layout: post
 use_math: true
 title: "Statistics, Probability and Chaos"
+subtitle: 
 date: 2023-07-04 08:12:09
-tagline: "Chaos"
 categories:
 - Chaos
 tags:
@@ -27,8 +27,10 @@ def) x is fixed point of f if $f(x) = x$
 <br/>
 <br/>
 
-##### Proposition
+### Proposition
 Let p be a fixed point of f. If $|f'(p)| < 1$, then there exists a neighbourhood U of p such that, for all x in U, $\lim_{n \rightarrow \infty} f^{n}(x) = p.$ Such fixed point p is called attracting fixed point and the set U is a stable set. When $|f'(p)| > 1$, then p is called repelling fixed point. When $|f'(p)| = 1$, p is saddle point.
+
+
 
 <br/>
 #### Chaos
@@ -45,11 +47,13 @@ $f:D \rightarrow D$ is topologically transtive if for any pair of open sets U, V
 <br/>
 <h4>Measure of Chaos</h4>
 <h5>1. Lyapunov exponents</h5>
-definition : $\lambda (x_{0}) = \lim_{n \rightarrow \infty} \frac{1}{n} log[ | \frac{dx_{n}}{dx_{0}} |] $
+definition : $ \lambda (x_{0}) = \lim_{n \rightarrow \infty} \frac{1}{n} log[ | \frac{dx_{n}}{dx_{0}} |] $
 <\br>
 To estimate lyapunov exponents from noisy dataset, refer [Nychka, McCAffrey, Ellner and Gallant](https://www.jstor.org/stable/2346135).
 
-<h5>1. Lyapunov exponents</h5>
+<h5>2. </h5>
+
+
 
 ### Reference
 [Statistics, Probability and Chaos (Berliner, 1992)](https://pdodds.w3.uvm.edu/files/papers/others/1992/berliner1992a.pdf)
