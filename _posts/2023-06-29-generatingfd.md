@@ -24,18 +24,18 @@ stochastic volatility model is a financial model that assumes the volatility of 
 
 <h6> (i) Heston Model </h6>
 
-$$ dS_{t} = rS_{t}dt + \sqrt{V_{t}} S_{t} dW_{1t} $$
-$$ dV_{t} = k(\theta - V_{t})dt + \delta \sqrt{V_{t}}dW_{2t}$$
-where,
-$S_{t}$ is stock price at time t.
-$r =$ risk-free interest rate - theoretical risk-free interest rate
-$\sqrt{V_{t}}$ is the volatality (standard deviation) of the asset price
-$\detla$ is the volatality of $\sqrt{V_{t}}$
-$\theta$ is the long-term price variance
-$k$ is rate of reversion to $\theta$
-$dt$ is indefininte small time n=increment
-$W_{1t}$ is the Browninan motion of asset price
-$W_{2t}$ is the Browninan motion of asset's price volatility
+$$dS_{t} = rS_{t}dt + \sqrt{V_{t}} S_{t} dW_{1t}$$
+$$dV_{t} = k(\theta - V_{t})dt + \delta \sqrt{V_{t}}dW_{2t}$$
+where,<br\>
+$S_{t}$ is stock price at time t.<br\>
+$r =$ risk-free interest rate - theoretical risk-free interest rate<br\>
+$\sqrt{V_{t}}$ is the volatality (standard deviation) of the asset price<br\>
+$\detla$ is the volatality of $\sqrt{V_{t}}$<br\>
+$\theta$ is the long-term price variance<br\>
+$k$ is rate of reversion to $\theta$<br\>
+$dt$ is indefininte small time n=increment<br\>
+$W_{1t}$ is the Browninan motion of asset price<br\>
+$W_{2t}$ is the Browninan motion of asset's price volatility<br\>
 
 
 -- Properties of Heston Model --
