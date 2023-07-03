@@ -24,8 +24,8 @@ stochastic volatility model is a financial model that assumes the volatility of 
 
 <h6> (i) Heston Model </h6>
 
-$$dS_{t} = rS_{t}dt + \sqrt{V_{t}} S_{t} dW_{1t}$$
-$$dV_{t} = k(\theta - V_{t})dt + \delta \sqrt{V_{t}}dW_{2t}$$
+$$ dS_{t} = rS_{t}dt + \sqrt{V_{t}} S_{t} dW_{1t} $$
+$$ dV_{t} = k(\theta - V_{t})dt + \delta \sqrt{V_{t}}dW_{2t} $$
 where,<br\>
 $S_{t}$ is stock price at time t.<br\>
 $r =$ risk-free interest rate - theoretical risk-free interest rate<br\>
