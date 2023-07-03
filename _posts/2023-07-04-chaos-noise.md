@@ -45,7 +45,7 @@ $f:D \rightarrow D$ is topologically transtive if for any pair of open sets U, V
 <br/>
 <h4>Measure of Chaos</h4>
 <h5>1. Lyapunov exponents</h5>
-definition : $\lambda (x_{0}) = \lim_{n \rightarrow \infty} \frac{1}{n} log[ | \frac{dx_{n}}{dx_{0}} |]
+definition : $\lambda (x_{0}) = \lim_{n \rightarrow \infty} \frac{1}{n} log[ | \frac{dx_{n}}{dx_{0}} |] $
 
 
 ### Reference
