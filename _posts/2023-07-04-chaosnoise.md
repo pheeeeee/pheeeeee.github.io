@@ -46,7 +46,10 @@ $f:D \rightarrow D$ is topologically transtive if for any pair of open sets U, V
 <h4>Measure of Chaos</h4>
 <h5>1. Lyapunov exponents</h5>
 definition : $\lambda (x_{0}) = \lim_{n \rightarrow \infty} \frac{1}{n} log[ | \frac{dx_{n}}{dx_{0}} |] $
+<\br>
+To estimate lyapunov exponents from noisy dataset, refer [Nychka, McCAffrey, Ellner and Gallant](https://www.jstor.org/stable/2346135).
 
+<h5>1. Lyapunov exponents</h5>
 
 ### Reference
 [Statistics, Probability and Chaos (Berliner, 1992)](https://pdodds.w3.uvm.edu/files/papers/others/1992/berliner1992a.pdf)
