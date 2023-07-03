@@ -11,7 +11,6 @@ tags:
 - functional analysis
 - Banach Space
 author: "Jung Hun Phee"
-permalink: /2020-01-26-graphical-model-01
 ---
 
 ## Variational Method
