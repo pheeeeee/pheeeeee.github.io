@@ -20,7 +20,7 @@ To answer these questions, one needs to understand and define what patternless i
 <br/>
 
 <h2> Notations and Prerequisites </h2>
-def) x is fixed point of f if $f(x) = x$
+def) x is fixed point of f if $ f(x) = x $
 <br/>
 <br/>
 
