@@ -2,8 +2,6 @@
 layout: post
 use_math: true
 title: "Statistics, Probability and Chaos"
-subtitle: 
-date: 2023-07-04 08:12:09
 categories:
 - Chaos
 tags:
@@ -13,7 +11,6 @@ tags:
 - complexity
 - entropy
 - time series
-author: "Jung Hun Phee"
 ---
 
 <h2> Intro </h2>
