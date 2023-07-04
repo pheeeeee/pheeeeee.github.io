@@ -2,7 +2,6 @@
 layout: post
 use_math: true
 title: "Generating Financial Markets"
-subtitle: 
 categories:
 - Functional Data
 tags:
