@@ -18,3 +18,6 @@ title: Links of Interest
 - [Rigolet](https://math.mit.edu/~rigollet/)
 
 - [Eric Baer](https://www.stat.uchicago.edu/~ebaer/)
+
+#### Others
+- [Machine Learning Journals Submission Due dates](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
