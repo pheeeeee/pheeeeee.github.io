@@ -1,10 +1,11 @@
 ---
 layout: page
 title: seminars
+subtitle: These are the Labs or Seminars I participate in.
 ---
 
-### Basic Research Lab(BRL)
-Study on the Combination of Deep Learning Techniques and Statistical Models <br>
+### Yonsei Statistics Basic Research Lab(BRL)
+Research on the Combination of Deep Learning Techniques and Statistical Models <br>
 [기초연구실 dropbox](https://www.dropbox.com/home/BRL-reading)
 
 ### Yoon Lab
