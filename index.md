@@ -13,21 +13,12 @@ Beyond Academics, I love sports and traveling.
 <br><br><br>
 
 
-### News
-
-
 #### Education
 - M.S. [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do), Yonsei University, 2022 - Now
 - B.S. [Mathematics](https://math.yonsei.ac.kr/math/index.do), Yonsei University, 2016 - 2022 
 - B.A. [Economics](https://economics.yonsei.ac.kr/economics/index.do), with Minor in Applied Statistics, Yonsei University, 2016 - 2022
 - Exchange Student Program, UC Berkely, 2019
 - [Hankuk Academy of Foreign Studies(HAFS)](http://www.hafs.hs.kr/), 2013 - 2015
-
-#### Awards
-- Honorable Mention, Qiskit Hackerton Korea (2022)
-- Korea Development Institute(KDI) president's award (2015)
-- Deputy Prime Minister's Award (2014)
-- Math Award (Best Grade), Waterloo University (2010)
 
 #### Contact
 E-mail : pjh961018@naver.com
