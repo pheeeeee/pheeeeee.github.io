@@ -2,7 +2,8 @@
 layout: page
 title: Links of Interest
 ---
-
+### Seminars
+- (SIMONS)[https://simons.berkeley.edu/homepage]
 
 #### Deep Learning ####
 **Blog**
@@ -14,3 +15,6 @@ title: Links of Interest
 #### Optimization ####
 - [michaelzibulevsky website](https://sites.google.com/site/michaelzibulevsky/)
 
+- [Rigolet](https://math.mit.edu/~rigollet/)
+
+- [Eric Baer](https://www.stat.uchicago.edu/~ebaer/)
