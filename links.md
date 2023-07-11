@@ -3,7 +3,7 @@ layout: page
 title: Links of Interest
 ---
 ### Seminars
-- (SIMONS)[https://simons.berkeley.edu/homepage]
+- [SIMONS](https://simons.berkeley.edu/homepage)
 
 #### Deep Learning ####
 **Blog**
