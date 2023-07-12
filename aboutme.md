@@ -27,7 +27,7 @@ Beyond Academics, I love sports and traveling.
 - Math Award (Best Grade), Waterloo University (2010)
 
 #### Favorite Quotes
-Work hard, be kind. And amazing things will happen. <br><br>
+Work hard, be kind. And amazing things will happen. <br>
 When we aim for survival, it is a drift. Yet in pursuit of the treasure, it becomes an adventure.
 
 #### Contact
