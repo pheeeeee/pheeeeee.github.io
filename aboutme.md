@@ -28,7 +28,7 @@ Beyond Academics, I love sports and traveling.
 
 #### Favorite Quotes
 Work hard, be kind. And amazing things will happen. <br><br>
-It's drift when we aim for survival. Yet in pursuit of the treasure, it becomes an adventure.
+When we aim for survival, it is a drift. Yet in pursuit of the treasure, it becomes an adventure.
 
 #### Contact
 E-mail : pjh961018@naver.com
