@@ -32,6 +32,9 @@ navbar-links:
   Personal:
     - Travel: "travel"
     - Hobby: "hobby"
+  Finance:
+    - Links: "financelink"
+    - Project: "financeproject"
   
 
 ################
