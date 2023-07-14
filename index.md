@@ -19,11 +19,12 @@ Beyond Academics, I love sports and traveling.
 - Exchange Student Program, UC Berkely, 2019
 - [Hankuk Academy of Foreign Studies(HAFS)](http://www.hafs.hs.kr/), 2013 - 2015
 
-#### Awards
-- Honorable Mention, Qiskit Hackerton Korea (2022)
-- Korea Development Institute(KDI) president's award (2015)
-- Deputy Prime Minister's Award (2014)
-- Math Award (Best Grade), Waterloo University (2010)
+#### Research Affiliations
+- [Yonsei Statistics Basic Research Lab(BRL)](https://www.dropbox.com/home/BRL-reading)
+- [Yoon Lab](https://sites.google.com/view/yoonlabyonsei/)
+- [Knowledge Fusion and Artificial Intelligence Lab(KFAI)](https://kfai.yonsei.ac.kr/home)
+- [Yonsei Microeconomics Reading Group](https://cafe.naver.com/redxc1kj)
+
 
 #### Favorite Quotes
 Work hard, be kind. And amazing things will happen. <br>
