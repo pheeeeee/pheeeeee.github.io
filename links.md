@@ -15,6 +15,11 @@ title: Links of Interest
 #### Optimization ####
 - [michaelzibulevsky website](https://sites.google.com/site/michaelzibulevsky/)
 
+#### Labs ####
+- [Michael Unser](http://bigwww.epfl.ch/unser/)
+
+- [Michael R. Kosorok](https://mkosorok.web.unc.edu/)
+
 - [Rigolet](https://math.mit.edu/~rigollet/)
 
 - [Eric Baer](https://www.stat.uchicago.edu/~ebaer/)
