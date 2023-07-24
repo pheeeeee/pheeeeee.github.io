@@ -15,7 +15,13 @@ title: Links of Interest
 #### Optimization ####
 - [michaelzibulevsky website](https://sites.google.com/site/michaelzibulevsky/)
 
+#### Ergodic Theory ####
+- [Lecture notes on Ergodic Theory(Omrig Sarig)](https://www.weizmann.ac.il/math/sarigo/sites/math.sarigo/files/uploads/ergodicnotes.pdf)
+
+
 #### Labs ####
+- [Emmanuel Candes](https://candes.su.domains/)
+
 - [Michael Unser](http://bigwww.epfl.ch/unser/)
 
 - [Michael R. Kosorok](https://mkosorok.web.unc.edu/)
