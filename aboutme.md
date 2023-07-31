@@ -28,7 +28,7 @@ Beyond Academics, I love sports and traveling.
 
 #### Favorite Quotes
 Work hard, be kind. And amazing things will happen. <br>
-It's a drift if we are to survive. Yet in pursuit of the treasure, it becomes an adventure.
+The important thing is not to stop questioning. Curiosity has its own reason for existence.
 
 #### Contact
 E-mail : pjh961018@naver.com
