@@ -30,5 +30,8 @@ title: Links of Interest
 
 - [Eric Baer](https://www.stat.uchicago.edu/~ebaer/)
 
+#### PDE ####
+- [서진근](https://www.deepmediview.com/blank-15)
+
 #### Others
 - [Machine Learning Journals Submission Due dates](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
