@@ -35,3 +35,7 @@ title: Links of Interest
 
 #### Others
 - [Machine Learning Journals Submission Due dates](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
+
+#### Coding
+
+- [Cuda allocation code](https://jimmy-ai.tistory.com/224)
