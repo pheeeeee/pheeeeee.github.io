@@ -6,10 +6,12 @@ title: Research
 ## Research Interest
 - Distributional Robustness and generalizability
 - Theoretical Computer Science, Information Theory
-- Harmonic Analysis, Ergodic Theory
+- Harmonic Analysis, Fourier Analysis, Ergodic Theory
+- Empirical Process
+- Graph
 - Non-parametric Statistics
+- Statistical Learning
 - Applications to Data-Driven Decision Making, Economics and Inverse Problem in Medical Imaging.
-- Game Theory, Platform Markets
 
 ----
 ## Research Experience
