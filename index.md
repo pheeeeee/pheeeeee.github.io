@@ -5,7 +5,7 @@ subtitle: Master student studying Statistics and Data Science at Yonsei Universi
 ---
 <br><br><br>
 <a href="url"><img src="/assets/img/23.jpg" align="left" height="300" width="300" style="float:left; padding-right:15px" ></a>
-Hi, I am a master student in the [the Department of Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do) at Yonsei University, advised by [Yong-Ho Jeon](https://stat.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=zLn7yUITMUoRCLHT7RciHQ%3D%3D&sosokcd=) and [Kyung-ho Yoon](https://sites.google.com/view/yoonlabyonsei/professor).
+Hi, I am a master student in the [the Department of Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do) at Yonsei University, advised by [Yong-Ho Jeon](https://stat.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=zLn7yUITMUoRCLHT7RciHQ%3D%3D&sosokcd=), [Hyun-soo Yoon](https://kfai.yonsei.ac.kr/people/professor) and [Kyung-ho Yoon](https://sites.google.com/view/yoonlabyonsei/professor).
 
 My research interests lie broadly in mathematical backgrounds of Machine Learning. Currently my focus is on the distributional robustness of machine learning.
 
