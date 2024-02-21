@@ -28,6 +28,7 @@ Beyond Academics, I love sports and traveling.
 
 #### Favorite Quotes
 Work hard, be kind. And amazing things will happen. <br>
+You have to plant little acorns which grow into mighty oak trees. But you have to plant acorns which will grow. The person who works on the right problem at the right time in the right way is what counts, and nothing else.<br>
 The important thing is not to stop questioning. Curiosity has its own reason for existence.
 
 
