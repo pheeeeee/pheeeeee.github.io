@@ -12,6 +12,15 @@ My research interests lie broadly in mathematical backgrounds of Machine Learnin
 Beyond Academics, I love sports and traveling.
 <br><br><br>
 
+#### Questions I have recently been asking
+- Is Statistics still important in chaotic setting? Can we distinguish patternless, chaotic structure from noisy data?
+- What is the limits of current AIs? What can machines do and what can they not do?
+- How does our brain encode spatial temporal information using physics and chemicals only? How do we unlearn what have been learnt? Can machines also do it? How do information flow in brain?
+
+#### Fields of interest
+Geometric, probablistic inequaity and concentration of mass. Mathematical theories of Machine Learning, Graph, Applications in Neuroscience, Finance and Business.
+
+
 #### Education
 - M.S. [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do), Yonsei University, 2022 - Now
 - B.S. [Mathematics](https://math.yonsei.ac.kr/math/index.do), Yonsei University, 2016 - 2022 
